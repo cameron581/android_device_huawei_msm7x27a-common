@@ -73,7 +73,7 @@ index 79216fc..61f7bc2 100644
 +import android.os.PowerManager;
  import android.os.RemoteException;
  import android.os.ServiceManager;
-+import android.os.SystemProperties
++import android.os.SystemProperties;
  import android.os.UserManager;
  import android.os.storage.IMountService;
  import android.os.storage.StorageEventListener;
